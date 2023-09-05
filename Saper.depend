@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1648512218 source:c:\users\nina\documents\game projects\saper\field.cpp
+	"Field.h"
+
+1649676520 source:c:\users\nina\documents\game projects\saper\minesweeperboard.cpp
+	<iostream>
+	"MinesweeperBoard.h"
+	"Field.h"
+
+1649543292 source:c:\users\nina\documents\game projects\saper\main.cpp
+	<iostream>
+	"MinesweeperBoard.h"
+	"Field.h"
+	"MSBoardTextView.h"
+
+1649676521 c:\users\nina\documents\game projects\saper\minesweeperboard.h
+	"Field.h"
+
+1648511601 c:\users\nina\documents\game projects\saper\field.h
+
+1649670712 c:\users\nina\documents\game projects\saper\msboardtextview.h
+
